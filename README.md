@@ -11,7 +11,7 @@
 
 ## Simple Nuxt Devloy
 
--
+- - [Simple-Nuxt-Devloy](https://github.com/zawkhantmaung-scm/__Nuxt-Laravel-Devloy/blob/main/README/Simple-Nuxt-Devloy.md)
 
 ## Reverse Proxy Nuxt Devloy
 

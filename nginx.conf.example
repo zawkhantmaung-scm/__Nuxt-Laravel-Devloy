@@ -36,6 +36,14 @@ http {
     include /etc/nginx/conf.d/*.conf;
 
 server {
+    listen 80;
+    listen [::]:80;
+    index index.html;
+    server_name _;
+    root         /var/www/html/__Nuxt-Laravel-Devloy/client/dist;
+}
+
+server {
     listen 8000;
     listen [::]:8000;
     server_name _;

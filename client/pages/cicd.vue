@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="title">{{ cicd.info }}</h1>
+    <h1 class="title">{{ cicd.info }} Project</h1>
   </div>
 </template>
 
@@ -27,7 +27,7 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 90px;
   color: rgb(255, 60, 60);
   letter-spacing: 1px;
 }

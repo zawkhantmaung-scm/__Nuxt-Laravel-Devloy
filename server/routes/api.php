@@ -24,3 +24,8 @@ Route::get('v1/users', function () {
         'users' => User::get(),
     ]);
 });
+Route::get('v1/cicd', function () {
+    return response()->json([
+        'info' => 'Jenkins-Nuxt-Laravel-Devloy-CICD',
+    ]);
+});

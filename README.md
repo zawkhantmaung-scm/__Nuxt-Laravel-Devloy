@@ -11,11 +11,11 @@
 
 ## Simple Nuxt Devloy
 
-- - [Simple-Nuxt-Devloy](https://github.com/zawkhantmaung-scm/__Nuxt-Laravel-Devloy/blob/main/README/Simple-Nuxt-Devloy.md)
+- [Simple-Nuxt-Devloy](https://github.com/zawkhantmaung-scm/__Nuxt-Laravel-Devloy/blob/main/README/Simple-Nuxt-Devloy.md)
 
 ## Reverse Proxy Nuxt Devloy
 
--
+- [Reverse-Proxy-Nuxt-Devloy](https://github.com/zawkhantmaung-scm/__Nuxt-Laravel-Devloy/blob/main/README/Reverse-Proxy-Nuxt-Devloy.md)
 
 ## Jenkins Nuxt Laravel Devloy
 

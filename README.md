@@ -7,6 +7,7 @@
 ## Simple Laravel Devloy
 
 - [Simple-Laravel-Devloy-Apache](https://github.com/zawkhantmaung-scm/__Nuxt-Laravel-Devloy/blob/main/README/Simple-Laravel-Devloy-Apache.md)
+- [Simple-Laravel-Devloy-Nginx](https://github.com/zawkhantmaung-scm/__Nuxt-Laravel-Devloy/blob/main/README/Simple-Laravel-Devloy-Nginx.md)
 
 ## Simple Nuxt Devloy
 

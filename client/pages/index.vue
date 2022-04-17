@@ -28,7 +28,7 @@ export default {
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: rgb(255, 60, 60);
+  color: rgb(255, 29, 29);
   letter-spacing: 1px;
 }
 </style>

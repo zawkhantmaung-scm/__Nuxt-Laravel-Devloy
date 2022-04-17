@@ -23,7 +23,7 @@
 
 ## Using MySQL
 
--
+- [Using-MySQL](https://github.com/zawkhantmaung-scm/__Nuxt-Laravel-Devloy/blob/main/README/Using-MySQL.md)
 
 ## Using Amazon RDS
 

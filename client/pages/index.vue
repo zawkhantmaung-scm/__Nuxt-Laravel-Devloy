@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="title">{{ friday.program }}</h1>
+    <h1 class="title">{{ friday.program }} program</h1>
   </div>
 </template>
 

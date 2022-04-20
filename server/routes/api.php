@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('v1/friday', function () {
     return response()->json([
-        'program' => 'Ayay Tw Pon Aung Ya Mi;',
+        'program' => 'Ayay Tw Pon Aung Ya Mi',
     ]);
 });
 Route::get('v1/users', function () {
